@@ -1,2 +1,6 @@
-# Repo_example_diego
-Este es un repositorio de Ejemplo
+
+
+# Este es el repo que tengo con mi amiguito Diego
+/* HOLA 
+# SOY 
+Diego
